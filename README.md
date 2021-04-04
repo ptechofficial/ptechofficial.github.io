@@ -1,3 +1,3 @@
 #Portfolio Repo
 
-### contains code for the website ptechofficial.github.io
+This repo contains code for the website ptechofficial.github.io
