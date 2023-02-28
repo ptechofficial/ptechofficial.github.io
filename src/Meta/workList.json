@@ -2,7 +2,7 @@
   {
     "title": "DotCard",
     "links": {
-      "live_demo": "google.com",
+      "live_demo": "mydotcard.com",
       "case_study": "google.com",
       "github": "google.com"
     },
@@ -10,7 +10,7 @@
     "url": "https://www.youtube.com/embed/9g2zbwHsjDA"
   },
   {
-    "title": "DotCard",
+    "title": "GIS Platform for DRDO",
     "links": {
       "live_demo": "google.com",
       "case_study": "google.com",
@@ -20,7 +20,57 @@
     "url": "https://images.pexels.com/photos/306763/pexels-photo-306763.jpeg?auto=compress&cs=tinysrgb&w=1600"
   },
   {
-    "title": "DotCard",
+    "title": "Timetable App",
+    "links": {
+      "live_demo": "google.com",
+      "case_study": "google.com",
+      "github": "google.com"
+    },
+    "type": "image",
+    "url": "https://images.pexels.com/photos/306763/pexels-photo-306763.jpeg?auto=compress&cs=tinysrgb&w=1600"
+  },
+  {
+    "title": "Zerodha Trading WebApp",
+    "links": {
+      "live_demo": "google.com",
+      "case_study": "google.com",
+      "github": "google.com"
+    },
+    "type": "image",
+    "url": "https://images.pexels.com/photos/306763/pexels-photo-306763.jpeg?auto=compress&cs=tinysrgb&w=1600"
+  },
+  {
+    "title": "College Social Media",
+    "links": {
+      "live_demo": "google.com",
+      "case_study": "google.com",
+      "github": "google.com"
+    },
+    "type": "image",
+    "url": "https://images.pexels.com/photos/306763/pexels-photo-306763.jpeg?auto=compress&cs=tinysrgb&w=1600"
+  },
+  {
+    "title": "Graph Simulator",
+    "links": {
+      "live_demo": "google.com",
+      "case_study": "google.com",
+      "github": "google.com"
+    },
+    "type": "image",
+    "url": "https://images.pexels.com/photos/306763/pexels-photo-306763.jpeg?auto=compress&cs=tinysrgb&w=1600"
+  },
+  {
+    "title": "Instagram Filter",
+    "links": {
+      "live_demo": "google.com",
+      "case_study": "google.com",
+      "github": "google.com"
+    },
+    "type": "image",
+    "url": "https://images.pexels.com/photos/306763/pexels-photo-306763.jpeg?auto=compress&cs=tinysrgb&w=1600"
+  },
+  {
+    "title": "Paint on Web",
     "links": {
       "live_demo": "google.com",
       "case_study": "google.com",
