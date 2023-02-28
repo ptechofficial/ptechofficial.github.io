@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2dae1d81.css",
+    "main.js": "/static/js/main.b0b9eaeb.js",
+    "static/media/about.jpg": "/static/media/about.5cd41d52acf2a0733654.jpg",
+    "static/media/landing.png": "/static/media/landing.e722fbd640585866ae8e.png",
+    "static/media/dotCard.png": "/static/media/dotCard.733746d36e989e9e9d0f.png",
+    "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "index.html": "/index.html",
+    "main.2dae1d81.css.map": "/static/css/main.2dae1d81.css.map",
+    "main.b0b9eaeb.js.map": "/static/js/main.b0b9eaeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dae1d81.css",
+    "static/js/main.b0b9eaeb.js"
+  ]
+}
